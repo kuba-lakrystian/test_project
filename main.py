@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import seaborn as sns
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
