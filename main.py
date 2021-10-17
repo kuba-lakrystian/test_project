@@ -12,3 +12,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 a = pd.DataFrame({'a': [1,2,3]})
+b = pd.Series([1,2,3])
