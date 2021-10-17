@@ -13,3 +13,5 @@ if __name__ == '__main__':
 
 z = x+y
 
+nowy_wek = pd.Series(['a', 'b', 'c'])
+
