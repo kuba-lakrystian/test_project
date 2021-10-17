@@ -1,6 +1,6 @@
 import pandas as pd
+import numpy as np
 import seaborn as sns
-import pyjanitor
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -11,4 +11,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-a = pd.DataFrame({'a': [1,2,3]})
+z = x+y
+
