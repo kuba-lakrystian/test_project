@@ -14,3 +14,5 @@ if __name__ == '__main__':
 a = pd.DataFrame({'a': [1,2,3]})
 b = pd.Series([1,2,3])
 
+nowy_wek = pd.Series(['a', 'b', 'c'])
+
