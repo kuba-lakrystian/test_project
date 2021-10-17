@@ -11,5 +11,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-z = x+y
-
+a = pd.DataFrame({'a': [1,2,3]})
+b = pd.Series([1,2,3])
